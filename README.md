@@ -1,2 +1,4 @@
 # conky
-My .conkyrc and conky.desktop files for manjaro
+My .conkyrc and conky.desktop files
+
+Tested under manjaro linux
